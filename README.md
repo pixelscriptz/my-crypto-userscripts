@@ -1,6 +1,13 @@
 # My Script Packs
 I'm Not Own This But I'm Use This Everydays Routine to Make Money 
 
+## Requirements 
+
+ - [F-Droid](https://f-droid.org/en/)
+ - [Termux](https://f-droid.org/repo/com.termux_1000.apk)
+ - [Mt Manager](https://m.apkpure.com/mt-manager/bin.mt.plus)
+ - [SmartCookieWeb](https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie)
+
 ## Installation
 
 📥 Install Script Pack 
@@ -20,10 +27,11 @@ https://t.me/beezXbot (type /help to get id)
 ```bash
   https://beez-app-d2638.web.app/license.html
 ```
-    
-## Requirements 
+## API For Script 
 
- - [F-Droid](https://f-droid.org/en/)
- - [Termux](https://f-droid.org/repo/com.termux_1000.apk)
- - [Mt Manager](https://m.apkpure.com/mt-manager/bin.mt.plus)
- - [SmartCookieWeb](https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie)
+ - [Multibot]()
+ - [Xevil]()
+
+
+    
+
