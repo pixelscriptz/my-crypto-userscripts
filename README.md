@@ -1,6 +1,3 @@
-# My Script Packs
-I'm Not Own This But I'm Use This Everydays Routine to Make Money 
-
 ## Requirements 
 
  - [F-Droid](https://f-droid.org/en/)
