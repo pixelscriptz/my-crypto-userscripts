@@ -27,8 +27,9 @@ copy user id to create licese
 
 ```bash
   https://beez-app-d2638.web.app/license.html
-  after create license contact @doowie_official in telegram to verify your license
-```
+  after create license contact @doowie_official on telegram
+  to verify your license
+ ```
 ## API For Script 
 
  - [Multibot]()
