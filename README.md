@@ -11,6 +11,8 @@
 
 ```bash
   git clone
+  cd
+  php exec.php
 ```
 🤖 Beez Bot (Get User ID Before Create key)
 
