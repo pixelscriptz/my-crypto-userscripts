@@ -1,4 +1,4 @@
-## Requirements 
+## Requirements (So Useful to Me)
 
  - [F-Droid](https://f-droid.org/en/)
  - [Termux](https://f-droid.org/repo/com.termux_1000.apk)
