@@ -18,6 +18,7 @@
 
 ```bash
 https://t.me/beezXbot
+click /help
 click /id
 copy user id to create licese
 ```
