@@ -17,7 +17,7 @@
 🤖 Beez Bot (Get User ID Before Create key)
 
 ```bash
-https://t.me/beezXbot
+[Link bot](https://t.me/beezXbot)
 click /help
 click /id
 copy user id to create licese
