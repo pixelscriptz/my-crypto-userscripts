@@ -10,8 +10,8 @@
 📥 Install Script Pack 
 
 ```bash
-  git clone
-  cd
+  git clone https://github.com/pixelscriptz/Packs.git
+  cd Packs
   php exec.php
 ```
 🤖 Beez Bot (Get User ID Before Create key)
