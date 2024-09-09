@@ -1,5 +1,2 @@
 For Beez Folder
 Type php exec.php and follow instructions before getting license key 
-
-For TOOL_PHP2 Folder
-do not anything and get a script choose site and ready to go ??
