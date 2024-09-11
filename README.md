@@ -12,7 +12,8 @@
 ```bash
   git clone https://github.com/pixelscriptz/Packs.git
   cd Packs
-  php exec.php
+  php exec.php (for beez folder)
+  php run.php (for iewil folder)
 ```
 🤖 Beez Bot (Get User ID Before Create key)
 
