@@ -1,2 +1,5 @@
 For Beez Folder
 Type php exec.php and follow instructions before getting license key 
+
+For iewil Folder
+do not anything go to script folder to choose your site and ready to go (some site is not working can you check it)
