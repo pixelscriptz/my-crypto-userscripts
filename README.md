@@ -15,10 +15,12 @@
 🤖 UserScript
 
 - Go To [GreasyFork]()
+  Do Not Register⚠️
 
 ⬇️ Download These UserScript
 - [Bypass Shortlink]()
 - [Premium Dutchycorp]()
+- [Viefaucet]()
 
 ## API For Script 
 
