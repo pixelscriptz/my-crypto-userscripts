@@ -10,7 +10,7 @@
 📥 Installation 
 
 ```bash
-  - [Install Brave]()
+  - [Install Brave](https://multibot.in)
   - [Install Violentmonkey (Extension)]()
 ```
 🤖 UserScript
