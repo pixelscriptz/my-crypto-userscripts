@@ -15,7 +15,7 @@
 🤖 UserScript
 
 - Go To [GreasyFork]()
-  Do Not Register⚠️
+- Do Not Register⚠️
 
 ⬇️ Download These UserScript
 - [Bypass Shortlink]()
