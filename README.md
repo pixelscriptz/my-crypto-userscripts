@@ -2,22 +2,24 @@
 
  - [Brave]()
  - [violentmonkey]()
+ - [Rektcaptcha]()
+ - [Hektcaptcha]()
 
 ## Installation
 
 📥 Installation 
 
 ```bash
-  Install Brave
-  Install Violentmonkey (Extension)
+  [Install Brave]()
+  [Install Violentmonkey (Extension)]()
 ```
 🤖 UserScript
 
 - Go To [GreasyFork]()
 ```bash
 Download These UserScript
-[]()
-[]()
+[Bypass Shortlink]()
+[Premium Dutchycorp]()
 ```
 ## API For Script 
 
