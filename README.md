@@ -1,4 +1,4 @@
-## Requirements (So Useful to me)
+## Requirements
 
  - [Brave]()
  - [violentmonkey]()
