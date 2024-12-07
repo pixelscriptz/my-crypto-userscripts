@@ -1,20 +1,18 @@
-## Requirements
+## 📝Requirements
 
  - [Brave](https://brave.com/)
  - [Violentmonkey](https://violentmonkey.github.io/)
  - [Rektcaptcha](https://chromewebstore.google.com/detail/rektcaptcha-recaptcha-sol/bbdhfoclddncoaomddgkaaphcnddbpdh?hl=en)
  - [Hektcaptcha](https://chromewebstore.google.com/detail/hektcaptcha-hcaptcha-solv/bpfdbfnkjelhloljelooneehdalcmljb?hl=en)
 
-## Installation
-
-📥 Installation 
+## 🛠️Installation
 
   - Install Brave 
   - Install Violentmonkey (Extension)
-  - Install Rektcaptcha and hektcaptcha (Extension)
+  - Install Rektcaptcha and Hektcaptcha (Extension)
 
     ```bash
-    basic setting (can you change to your setting}
+    basic setting (can you change to your setting)
     click delay timer : 300
     solve delay timer : 1000 
     ```
