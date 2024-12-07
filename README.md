@@ -21,7 +21,7 @@
 
 - Go To [GreasyFork](https://greasyfork.org/en) (Do Not Register⚠️)
 
-⬇️ Download These UserScript
+⬇️ Download These UserScripts
 - [Bypass Shortlink](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks)
 - [Premium Dutchycorp](https://greasyfork.org/en/scripts/477559-premium-dutchycorp-space-by-andrewblood)
 - [Viefaucet](https://greasyfork.org/en/scripts/489664-premium-viefaucet-captcha-helper)
